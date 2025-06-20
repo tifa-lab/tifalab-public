@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on tifalab</title>
+    <link>https://tifalab.org/projects/</link>
+    <description>Recent content in Projects on tifalab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© tifalab. &lt;a href=&#39;https://creativecommons.org/licenses/by-nc-nd/4.0/&#39;&gt;CC BY-NC-ND 4.0&lt;/a&gt; except where otherwise indicated.</copyright>
+    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://tifalab.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project stub</title>
+      <link>https://tifalab.org/projects/project1/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://tifalab.org/projects/project1/</guid>
+      <description>Project stub summary</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://tifalab.org/people/member1/</loc>
+    <lastmod>2025-06-16T12:10:53-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tifalab.org/projects/project1/</loc>
+    <lastmod>2025-06-16T12:10:53-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tifalab.org/people/</loc>
+    <lastmod>2025-06-16T12:10:53-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tifalab.org/projects/</loc>
+    <lastmod>2025-06-16T12:10:53-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tifalab.org/</loc>
+    <lastmod>2025-06-15T15:11:35-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tifalab.org/autism-variant-study/</loc>
+    <lastmod>2025-06-16T11:54:24-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tifalab.org/contact/</loc>
+    <lastmod>2025-06-16T11:54:24-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tifalab.org/categories/</loc>
+  </url>
+  <url>
+    <loc>https://tifalab.org/tags/</loc>
+  </url>
+</urlset>
