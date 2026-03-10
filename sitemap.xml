@@ -3,12 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://tifalab.org/people/member1/</loc>
+    <loc>https://tifalab.org/projects/project1/</loc>
     <lastmod>2025-06-16T12:10:53-04:00</lastmod>
   </url>
   <url>
-    <loc>https://tifalab.org/projects/project1/</loc>
-    <lastmod>2025-06-16T12:10:53-04:00</lastmod>
+    <loc>https://tifalab.org/people/amandeep-jutla/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tifalab.org/people/sarah-sherman/</loc>
+    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://tifalab.org/people/</loc>
